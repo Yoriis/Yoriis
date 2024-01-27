@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Yara Allam, a sophomore at the Faculty of Computer and Data Science at Alexandria University. My concentration is in Intelligent Systems and I have a deep love for Machine Learning and Data Science. I'm also interested in web development, though as a means to display my ideas to trhe world.
+I'm Yara Allam, a sophomore at the Faculty of Computer and Data Science at Alexandria University. My concentration is in Intelligent Systems and I have a deep love for Machine Learning and Data Science. I'm also interested in web development, though as a means to display my ideas to the world.
 
 ## 🧠 Interests
 
